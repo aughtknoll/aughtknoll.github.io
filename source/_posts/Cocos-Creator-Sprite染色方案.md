@@ -1,6 +1,6 @@
 ---
-title: {{ Cocos Creator Sprite染色方案 }}
-date: {{ 2025-11-01 }}
+title: Cocos Creator Sprite染色方案
+date: 2025-11-01
 tags: 
     - Cocos Creator
 categories: Cocos Creator
